@@ -1,5 +1,3 @@
-<img width="1643" height="841" alt="image" src="https://github.com/user-attachments/assets/4463b928-85d6-4f1a-a152-ac7cd2c6c4be" />企鹅交流群:787475855
-
 视频链接:https://www.bilibili.com/video/BV1YW8dzuEwL
 
 上位机已更V0.4.4, 已支持一键取字库
@@ -15,7 +13,7 @@ V0.5.4
 4.优化某些函数的执行速度, 稍微提升帧率
 
 
-动态刷新V2: 针对大屏应用, 允许对动态刷新区域进行自定义细分(仅适配了GD32E230C8)
+动态刷新V2: 针对大屏应用, 允许对动态刷新区域进行自定义细分(适配了GD32E230C8和CW32L012C8)
 
 <img width="1507" height="901" alt="8638c57443ba48b9c6c6b8078044590b" src="https://github.com/user-attachments/assets/ccce85af-868f-4d40-97ae-3fa795196bb9" />
 
