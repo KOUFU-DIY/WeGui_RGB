@@ -1,4 +1,4 @@
-企鹅交流群:787475855
+<img width="1643" height="841" alt="image" src="https://github.com/user-attachments/assets/4463b928-85d6-4f1a-a152-ac7cd2c6c4be" />企鹅交流群:787475855
 
 视频链接:https://www.bilibili.com/video/BV1YW8dzuEwL
 
@@ -21,5 +21,6 @@ V0.5.4
 
 <img width="1507" height="841" alt="58240881daed64d228ad3defd6334cfe" src="https://github.com/user-attachments/assets/c0f4cf90-61c1-42be-ae87-93b6ada8abe7" />
 
-<img width="1643" height="841" alt="7d57d8d2-b131-4dc1-9c45-58a41e8cc75a" src="https://github.com/user-attachments/assets/b2c45ef0-e158-4c80-beb0-90f72742623a" />
+<img width="1643" height="841" alt="04dc74c8123aed1d81da17bc6d68800c" src="https://github.com/user-attachments/assets/81a22fb5-54b7-4a82-8874-dcfc79173312" />
+
 
